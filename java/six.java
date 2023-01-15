@@ -1,4 +1,4 @@
-class Division {
+class Main {
     public static void main(String[] args) {
         int numOne = 6;
         int numTwo = 2;
