@@ -1,9 +1,9 @@
 # SyntaxResearch
 
 Reference as:
-J1 = Java program 1
-P1 = Python program 1
-Cpp1 = C++ program 1
+- J1 = Java program 1
+- P1 = Python program 1
+- Cpp1 = C++ program 1
 
 PROGRAM - Write pseudocode for each
 1. Printing: Print "Hello world.".
