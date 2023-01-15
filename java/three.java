@@ -1,4 +1,4 @@
-class HelloWorld {
+class Main {
     public static void main(String[] args) {
         String stringOne = "Hello";
         String stringTwo = "world";
