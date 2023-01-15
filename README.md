@@ -25,7 +25,7 @@ PROGRAM - Write pseudocode for each
 17. Arrays: Create an array with the following strings: "banana", "orange", "mango". And print out item 1.
 18. Comments: Print out "Hello world." and add a comment above it that says "Prints out 'Hello world.'.
 19. Function with parameter: Write a function called add with two parameters x and y. In the function body, return the sum of both variables. Call this function         with 5 and 3 and print its output.
-20. Booleans: Save two the values True and False to two variables. Print these variables out.
+20. Booleans: Save two values True and False to two variables. Print these variables out.
 21. Builtin Function: Use a function to return the maximum of two numbers: 10, 5 and print the largest number.
 22. Reading Files: Create a text file with the words "Hello world." in it. Write a program that reads the contents of the file and prints it out.
 23. Multiline Comment: Print out "Hello world." and above it write a multi-line comment saying "Prints in out 'Hello world.'" on the first line and "In [language]"     on the second line.
