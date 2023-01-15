@@ -44,19 +44,19 @@ PROGRAM - Write pseudocode for each
 | 3 | [three](python/three.py) |
 | 4 | [four](python/four.py) |
 | 5 | [five](python/five.py) |
-| 6 |
-| 7 |
-| 8 |
-| 9 |
-| 10 |
-| 11 |
-| 12 |
-| 13 |
-| 14 |
-| 15 |
-| 16 |
-| 17 |
-| 18 |
+| 6 | [six](python/six.py) |
+| 7 | [seven](python/seven.py) |
+| 8 | [eight](python/eight.py) |
+| 9 | [nine](python/nine.py) |
+| 10 | [ten](python/ten.py) |
+| 11 | [eleven](python/eleven.py) |
+| 12 | [twelve](python/twelve.py) |
+| 13 | [thirteen](python/thirteen.py) |
+| 14 | [fourteen](python/fourteen.py) |
+| 15 | [fifteen](python/fifteen.py) |
+| 16 | [sixteen](python/sixteen.py) |
+| 17 | [seventeen](python/seventeen.py) |
+| 18 | [eighteen](python/eighteen.py) |
 | 19 |
 | 20 |
 | 21 |
