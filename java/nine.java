@@ -1,4 +1,4 @@
-class Modulus {
+class Cat {
     public static void main(String[] args) {
         String animal = "cat";
         if (animal == "cat") {
