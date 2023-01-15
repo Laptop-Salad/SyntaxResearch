@@ -36,3 +36,38 @@ PROGRAM - Write pseudocode for each
 28. Increment: Print out the value of 5, incremented by 1.
 29. Decrement: Print out the value of 5, decremented by 1.
 30. Printing The Contents Of An Array: Given the array ["Goodbye", "world", "."]. Iterate through the array and print its contents.
+
+| Program | Python | Java | C++ |
+| ------- | ------ | ---- | --- |
+| 1 | [one](python/one.py) |
+| 2 | [two](python/two.py) |
+| 3 | [three](python/three.py) |
+| 4 | [four](python/four.py) |
+| 5 | [five](python/five.py) |
+| 6 |
+| 7 |
+| 8 |
+| 9 |
+| 10 |
+| 11 |
+| 12 |
+| 13 |
+| 14 |
+| 15 |
+| 16 |
+| 17 |
+| 18 |
+| 19 |
+| 20 |
+| 21 |
+| 22 |
+| 23 |
+| 24 |
+| 25 |
+| 26 |
+| 27 |
+| 28 |
+| 29 | 
+| 30 |
+
+
