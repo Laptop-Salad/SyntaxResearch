@@ -57,17 +57,17 @@ PROGRAM - Write pseudocode for each
 | 16 | [sixteen](python/sixteen.py) |
 | 17 | [seventeen](python/seventeen.py) |
 | 18 | [eighteen](python/eighteen.py) |
-| 19 |
-| 20 |
-| 21 |
-| 22 |
-| 23 |
-| 24 |
-| 25 |
-| 26 |
-| 27 |
-| 28 |
-| 29 | 
-| 30 |
+| 19 | [nineteen](python/nineteen.py) |
+| 20 | [twenty](python/twenty.py) |
+| 21 | [twenty-one](python/twenty-one.py) |
+| 22 | [twenty-two](python/twenty-two.py) |
+| 23 | [twenty-three](python/twenty-three.py) |
+| 24 | [twenty-four](python/twenty-four.py) |
+| 25 | [twenty-five](python/twenty-five.py) |
+| 26 | [twenty-six](python/twenty-six.py) |
+| 27 | [twenty-seven](python/twenty-seven.py) |
+| 28 | [twenty-eight](python/twenty-eight.py) |
+| 29 | [twenty-nine](python/twenty-nine.py) |
+| 30 | [thirty](python/thirty.py) |
 
 
