@@ -39,11 +39,11 @@ PROGRAM - Write pseudocode for each
 
 | Program | Python | Java | C++ |
 | ------- | ------ | ---- | --- |
-| 1 | [one](python/one.py) |
-| 2 | [two](python/two.py) |
-| 3 | [three](python/three.py) |
-| 4 | [four](python/four.py) |
-| 5 | [five](python/five.py) |
+| 1 | [one](python/one.py) | [one](java/one.java) | 
+| 2 | [two](python/two.py) | [two](java/two.java) |
+| 3 | [three](python/three.py) | [three](java/three.java) |
+| 4 | [four](python/four.py) | [four](java/four.java) |
+| 5 | [five](python/five.py) | [five](java/five.java) |
 | 6 | [six](python/six.py) |
 | 7 | [seven](python/seven.py) |
 | 8 | [eight](python/eight.py) |
