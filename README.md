@@ -54,20 +54,20 @@ PROGRAM
 | 13 | [thirteen](python/thirteen.py) | [thirteen](java/thirteen.java) |
 | 14 | [fourteen](python/fourteen.py) | [fourteen](java/fourteen.java) |
 | 15 | [fifteen](python/fifteen.py) | [fifteen](java/fifteen.java) |
-| 16 | [sixteen](python/sixteen.py) |
-| 17 | [seventeen](python/seventeen.py) |
-| 18 | [eighteen](python/eighteen.py) |
-| 19 | [nineteen](python/nineteen.py) |
-| 20 | [twenty](python/twenty.py) |
-| 21 | [twenty-one](python/twenty-one.py) |
-| 22 | [twenty-two](python/twenty-two.py) |
-| 23 | [twenty-three](python/twenty-three.py) |
-| 24 | [twenty-four](python/twenty-four.py) |
-| 25 | [twenty-five](python/twenty-five.py) |
-| 26 | [twenty-six](python/twenty-six.py) |
-| 27 | [twenty-seven](python/twenty-seven.py) |
-| 28 | [twenty-eight](python/twenty-eight.py) |
-| 29 | [twenty-nine](python/twenty-nine.py) |
-| 30 | [thirty](python/thirty.py) |
+| 16 | [sixteen](python/sixteen.py) | [sixteen](java/sixteen.java) |
+| 17 | [seventeen](python/seventeen.py) | [seventeen](java/seventeen.java) |
+| 18 | [eighteen](python/eighteen.py) | [eighteen](java/eighteen.java) |
+| 19 | [nineteen](python/nineteen.py) | [nineteen](java/nineteen.java) |
+| 20 | [twenty](python/twenty.py) | [twenty](java/twenty.java) |
+| 21 | [twenty-one](python/twenty-one.py) | [twenty-one](java/twenty-one.java) |
+| 22 | [twenty-two](python/twenty-two.py) | [twenty-two](java/twenty-two.java) | 
+| 23 | [twenty-three](python/twenty-three.py) | [twenty-three](java/twenty-three.java) |
+| 24 | [twenty-four](python/twenty-four.py) | [twenty-four](java/twenty-four.java) |
+| 25 | [twenty-five](python/twenty-five.py) | [twenty-five](java/twenty-five.java) |
+| 26 | [twenty-six](python/twenty-six.py) | [twenty-six](java/twenty-six.java) |
+| 27 | [twenty-seven](python/twenty-seven.py) | [twenty-seven](java/twenty-seven.java) |
+| 28 | [twenty-eight](python/twenty-eight.py) | [twenty-eight](java/twenty-eight.java) |
+| 29 | [twenty-nine](python/twenty-nine.py) | [twenty-nine](java/twenty-nine.java) |
+| 30 | [thirty](python/thirty.py) | [thirty](java/thirty.java) |
 
 
