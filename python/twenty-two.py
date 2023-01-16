@@ -1,4 +1,4 @@
-def add (x, y=6):
-    return x+y
+def subtract(x, y=6):
+    return x-y
 
-print(add(5, 3))
+print(subtract(5, 3))
