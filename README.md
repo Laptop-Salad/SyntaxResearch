@@ -27,7 +27,7 @@ PROGRAM
 19. Function with parameter: Write a function called add with two parameters x and y. In the function body, return the sum of both variables. Call this function         with 5 and 3 and print its output.
 20. Booleans: Save two values True and False to two variables. Print these variables out.
 21. Builtin Function: Use a function to return the maximum of two numbers: 10, 5 and print the largest number.
-22. Function with default value: Write a function called add with two parameters x and y. In the function body, return the sum of both variables. Call this function       with 5 and 3 and print its output. Set y to a default value of 6.
+22. Function with default value: Write a function called subtract with two parameters x and y. In the function body, return the x - y. Call this function with 5 and 3 and print its output.
 23. Multiline Comment: Print out "Hello world." and above it write a multi-line comment saying "Prints in out 'Hello world.'" on the first line and "In [language]"     on the second line.
 24. Conditions: Write a program that checks if the number 7 is greater than 8. If so, it should print "7 is greater than 8", otherwise it should print "7 is not         greater than 8". 
 25. Calculation: Print out the result of the calulation: (5 * (5 + 5)) / 2.
