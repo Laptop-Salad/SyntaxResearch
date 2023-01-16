@@ -1,10 +1,5 @@
 # SyntaxResearch
 
-Reference as:
-- J1 = Java program 1
-- P1 = Python program 1
-- Cpp1 = C++ program 1
-
 PROGRAM
 1. Printing: Print "Hello world.".
 2. Variables: Save "Hello world." to a variable and print.
