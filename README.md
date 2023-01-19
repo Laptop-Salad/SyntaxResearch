@@ -63,6 +63,6 @@ PROGRAM
 | 27 | [twenty-seven](python/twenty-seven.py) | [twenty-seven](java/twenty-seven.java) | [twenty-seven](cpp/twenty-seven.cpp) |
 | 28 | [twenty-eight](python/twenty-eight.py) | [twenty-eight](java/twenty-eight.java) | [twenty-eight](cpp/twenty-eight.cpp) |
 | 29 | [twenty-nine](python/twenty-nine.py) | [twenty-nine](java/twenty-nine.java) | [twenty-nine](cpp/twenty-nine.cpp) |
-| 30 | [thirty](python/thirty.py) | [thirty](java/thirty.java) | [thirty.cpp](cpp/thirty.cpp) | [thirty](cpp/thirty.cpp) |
+| 30 | [thirty](python/thirty.py) | [thirty](java/thirty.java) | [thirty](cpp/thirty.cpp) |
 
 
