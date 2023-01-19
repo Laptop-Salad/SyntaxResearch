@@ -1,4 +1,4 @@
-def subtract(x, y=6):
+def subtract(x, y):
     return x-y
 
 print(subtract(5, 3))
