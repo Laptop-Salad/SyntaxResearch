@@ -46,23 +46,23 @@ PROGRAM
 | 10 | [ten](python/ten.py) | [ten](java/ten.java) | [ten.cpp](cpp/ten.cpp) |
 | 11 | [eleven](python/eleven.py) | [eleven](java/eleven.java) | [eleven.cpp](cpp/eleven.cpp) |
 | 12 | [twelve](python/twelve.py) | [twelve](java/twelve.java) | [twelve.cpp](cpp/twelve.cpp) |
-| 13 | [thirteen](python/thirteen.py) | [thirteen](java/thirteen.java) | [thirteen.cpp](cpp/thirteen.cpp) |
-| 14 | [fourteen](python/fourteen.py) | [fourteen](java/fourteen.java) | [fourteen.cpp](cpp/fourteen.cpp) |
-| 15 | [fifteen](python/fifteen.py) | [fifteen](java/fifteen.java) | [fifteen.cpp](cpp/fifteen.cpp) |
-| 16 | [sixteen](python/sixteen.py) | [sixteen](java/sixteen.java) | [sixteen.cpp](cpp/sixteen.cpp) |
-| 17 | [seventeen](python/seventeen.py) | [seventeen](java/seventeen.java) | [seventeen.cpp](cpp/seventeen.cpp) |
-| 18 | [eighteen](python/eighteen.py) | [eighteen](java/eighteen.java) | [eighteen.cpp](cpp/eighteen.cpp) |
-| 19 | [nineteen](python/nineteen.py) | [nineteen](java/nineteen.java) | [nineteen.cpp](cpp/nineteen.cpp) |
+| 13 | [thirteen](python/thirteen.py) | [thirteen](java/thirteen.java) | [thirteen](cpp/thirteen.cpp) |
+| 14 | [fourteen](python/fourteen.py) | [fourteen](java/fourteen.java) | [fourteen](cpp/fourteen.cpp) |
+| 15 | [fifteen](python/fifteen.py) | [fifteen](java/fifteen.java) | [fifteen](cpp/fifteen.cpp) |
+| 16 | [sixteen](python/sixteen.py) | [sixteen](java/sixteen.java) | [sixteen](cpp/sixteen.cpp) |
+| 17 | [seventeen](python/seventeen.py) | [seventeen](java/seventeen.java) | [seventeen](cpp/seventeen.cpp) |
+| 18 | [eighteen](python/eighteen.py) | [eighteen](java/eighteen.java) | [eighteen](cpp/eighteen.cpp) |
+| 19 | [nineteen](python/nineteen.py) | [nineteen](java/nineteen.java) | [nineteen](cpp/nineteen.cpp) |
 | 20 | [twenty](python/twenty.py) | [twenty](java/twenty.java) | [twenty.cpp](cpp/twenty.cpp) |
-| 21 | [twenty-one](python/twenty-one.py) | [twenty-one](java/twenty-one.java) | [twenty-one.cpp](cpp/twenty-one.cpp) |
-| 22 | [twenty-two](python/twenty-two.py) | [twenty-two](java/twenty-two.java) | [twenty-two.cpp](cpp/twenty-two.cpp) |
-| 23 | [twenty-three](python/twenty-three.py) | [twenty-three](java/twenty-three.java) | [twenty-three.cpp](cpp/twenty-three.cpp) |
-| 24 | [twenty-four](python/twenty-four.py) | [twenty-four](java/twenty-four.java) | [twenty-four.cpp](cpp/twenty-four.cpp )|
-| 25 | [twenty-five](python/twenty-five.py) | [twenty-five](java/twenty-five.java) | [twenty-five.cpp](cpp/twenty-five.cpp) |
-| 26 | [twenty-six](python/twenty-six.py) | [twenty-six](java/twenty-six.java) | [twenty-six.cpp](cpp/twenty-six.cpp) |
-| 27 | [twenty-seven](python/twenty-seven.py) | [twenty-seven](java/twenty-seven.java) | [twenty-six.cpp](cpp/twenty-six.cpp) |
-| 28 | [twenty-eight](python/twenty-eight.py) | [twenty-eight](java/twenty-eight.java) | [twenty-eight.cpp](cpp/twenty-eight.cpp) |
-| 29 | [twenty-nine](python/twenty-nine.py) | [twenty-nine](java/twenty-nine.java) | [twenty-nine.cpp](cpp/twenty-nine.cpp) |
-| 30 | [thirty](python/thirty.py) | [thirty](java/thirty.java) | [thirty.cpp](cpp/thirty.cpp) | [thirty.cpp](cpp/thirty.cpp) |
+| 21 | [twenty-one](python/twenty-one.py) | [twenty-one](java/twenty-one.java) | [twenty-one](cpp/twenty-one.cpp) |
+| 22 | [twenty-two](python/twenty-two.py) | [twenty-two](java/twenty-two.java) | [twenty-two](cpp/twenty-two.cpp) |
+| 23 | [twenty-three](python/twenty-three.py) | [twenty-three](java/twenty-three.java) | [twenty-three](cpp/twenty-three.cpp) |
+| 24 | [twenty-four](python/twenty-four.py) | [twenty-four](java/twenty-four.java) | [twenty-four](cpp/twenty-four.cpp )|
+| 25 | [twenty-five](python/twenty-five.py) | [twenty-five](java/twenty-five.java) | [twenty-five](cpp/twenty-five.cpp) |
+| 26 | [twenty-six](python/twenty-six.py) | [twenty-six](java/twenty-six.java) | [twenty-six](cpp/twenty-six.cpp) |
+| 27 | [twenty-seven](python/twenty-seven.py) | [twenty-seven](java/twenty-seven.java) | [twenty-seven](cpp/twenty-seven.cpp) |
+| 28 | [twenty-eight](python/twenty-eight.py) | [twenty-eight](java/twenty-eight.java) | [twenty-eight](cpp/twenty-eight.cpp) |
+| 29 | [twenty-nine](python/twenty-nine.py) | [twenty-nine](java/twenty-nine.java) | [twenty-nine](cpp/twenty-nine.cpp) |
+| 30 | [thirty](python/thirty.py) | [thirty](java/thirty.java) | [thirty.cpp](cpp/thirty.cpp) | [thirty](cpp/thirty.cpp) |
 
 
