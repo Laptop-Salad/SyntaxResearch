@@ -1,5 +1,7 @@
 # SyntaxResearch
 
+Used for a Gold CREST award to see the difference in languages that have more verbose syntax in how clear and precise their error messages are.
+
 PROGRAM
 1. Printing: Print "Hello world.".
 2. Variables: Save "Hello world." to a variable and print.
